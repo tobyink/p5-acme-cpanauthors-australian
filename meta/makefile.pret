@@ -1,8 +1,4 @@
 # This file provides instructions for packaging.
 
 `Acme-CPANAuthors-Australian`
-	perl_version_from m`Acme::CPANAuthors::Australian`;
-	version_from      m`Acme::CPANAuthors::Australian`;
-	readme_from       m`Acme::CPANAuthors::Australian`;
-	requires          p`Acme::CPANAuthors`.
-
+	deps:runtime-requirement [ deps:on "Acme::CPANAuthors"^^deps:CpanId ] .

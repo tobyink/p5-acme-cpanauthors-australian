@@ -7,6 +7,7 @@
 `Acme-CPANAuthors-Australian 0.002 cpan:TOBYINK`
 	issued  2013-10-28;
 	changeset [
+		item "use Dist::Inkt"^^Packaging;
 		item "STEVENL"^^Addition;
 		item "MATTK"^^Addition;
 		item "ANNELI - change of name"^^Change;
