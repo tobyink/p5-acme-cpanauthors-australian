@@ -12,7 +12,7 @@ BEGIN {
 
 use Acme::CPANAuthors::Register (
 	'ADAMC' => 'Adam Clarke',
-	'ANNELI' => 'Arlen Cuss',
+	'ANNELI' => 'Amelia Cuss',
 	'ANTHONY' => 'Anthony Thyssen',
 	'BDGREGG' => 'Brendan Gregg',
 	'BENL' => 'Benjamin Low',
@@ -55,6 +55,7 @@ use Acme::CPANAuthors::Register (
 	'MARKNG' => 'Mark Ng',
 	'MARKPF' => 'Mark Pfeiffer',
 	'MARKPRIOR' => 'Mark Prior',
+	'MATTK' => 'Matt Koscica',
 	'MDBGRIZ' => 'Matthew Braid',
 	'MJHARR' => 'Mathew John Harrison',
 	'MRG' => 'Matthew Green',
@@ -73,6 +74,7 @@ use Acme::CPANAuthors::Register (
 	'SDT' => 'Stephen Thirlwall',
 	'SHOLDEN' => 'Sam Holden',
 	'SIMRAN' => 'simran',
+	'STEVENL' => 'Steven Lee',
 	'STHOMAS' => 'Steve Thomas',
 	'TOBYINK' => 'Toby Inkster',
 	'TONYC' => 'Tony Cook',
