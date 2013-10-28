@@ -7,7 +7,7 @@ use utf8;
 
 BEGIN {
 	$Acme::CPANAuthors::Australian::AUTHORITY = 'cpan:TOBYINK';
-	$Acme::CPANAuthors::Australian::VERSION   = '0.001';
+	$Acme::CPANAuthors::Australian::VERSION   = '0.002';
 }
 
 use Acme::CPANAuthors::Register (

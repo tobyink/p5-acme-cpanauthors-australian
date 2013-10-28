@@ -4,3 +4,10 @@
 	issued  2013-07-01;
 	label   "Initial release".
 
+`Acme-CPANAuthors-Australian 0.002 cpan:TOBYINK`
+	issued  2013-10-28;
+	changeset [
+		item "STEVENL"^^Addition;
+		item "MATTK"^^Addition;
+		item "ANNELI - change of name"^^Change;
+	].
