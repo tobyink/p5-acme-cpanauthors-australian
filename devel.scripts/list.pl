@@ -22,6 +22,7 @@ while (<$fh>)
 }
 
 $cpan_authors{TOBYINK} = 'Toby Inkster';
+$cpan_authors{MATTK}   = 'Matt Koscica';
 
 local $Data::Dumper::Sortkeys = 1;
 print Dumper \%cpan_authors;
